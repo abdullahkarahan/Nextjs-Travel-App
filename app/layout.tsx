@@ -10,8 +10,8 @@ import ClientOnly from './components/ClientOnly';
 import SearchModal from './components/Modals/SearchModal';
 
 export const metadata = {
-  title: 'Airbnb',
-  description: 'Airbnb Clone',
+  title: 'Travel Booking',
+  description: 'Travel Booking App',
   icons: '/images/favicon.svg',
 };
 
